@@ -1,0 +1,42 @@
+p{
+    color: #000;
+    text-align: justify;
+}
+.tresarticulos{
+    background:  #DAEF86;
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.tresarticulos article{
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: top;
+    width: 20%;
+    text-align: center;
+    padding: 5px;
+}
+.tresarticulos button{
+    background: white;
+    border-radius: 5px;
+    padding: 5px auto;
+    color: black;
+    margin-top: 10px;
+}
+.tresarticulos img{
+    width: 100%;
+}
+.tresarticulos .titulo{
+    font-size: 40px;
+    font-weight: bold;
+}
+.tresarticulos .contenido{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.tresarticulos video{
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+}

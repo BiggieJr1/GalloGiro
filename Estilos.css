@@ -1,0 +1,63 @@
+body{
+    background: #07D1CA;
+    margin: 10px;
+}
+header nav{
+    background-color: #2E8200;
+    border-radius: 5px;
+    padding: 1px;
+}
+header nav ul li{
+    color: #DAEF86;
+    display: inline-block;
+    font-size: 12px;
+    margin-right: 10px;
+}
+header nav ul li a{
+    color:#DAEF86;
+}
+header nav ul li a{
+    font-size: large;
+     text-align: justify;    
+    text-decoration: none;
+    color: white;
+}
+footer {
+    background: #2E8200;
+    border-radius: 5px;
+    color: white;
+    font-size: 12px;
+    padding: 5px;
+}
+.buscador{
+    float: right;
+    margin-right: 20px;
+    margin-top: -40px;
+}
+.buscador button{
+    background: #ADD8E6;
+    border: 0px;
+    border-radius: 5px;
+    padding: 3px 8px;
+}
+.buscador input{
+    background: #ffffff;
+    border-style: none;
+    border-radius: 5px;
+    height: 25px;
+}
+.Icono{
+    float: left;
+	margin-top: 0%;
+    width: 30%;
+}
+.Cabezal{
+    width: 100%;
+}
+.fondo{
+    margin-top: 5px;
+}
+.fondo img{
+    border-radius: 5px;
+    width: 100%;
+}
